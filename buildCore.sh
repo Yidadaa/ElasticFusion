@@ -1,4 +1,4 @@
-
+rm -rf ./Core/build ./GUI/build
 
 cd ./Core
 mkdir build
